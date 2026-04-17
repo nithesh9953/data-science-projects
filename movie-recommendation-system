@@ -1,1 +1,15 @@
+# Movie Recommendation System
 
+This project recommends movies using collaborative filtering.
+
+## Tools Used:
+- Python
+- Pandas
+
+## Features:
+- Data Preprocessing
+- Similarity Calculation
+- Recommendation Engine
+
+## Result:
+Improved recommendation accuracy.
